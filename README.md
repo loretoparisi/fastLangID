@@ -28,7 +28,7 @@ npm install
 ```
 
 ### Install via NPM
-`fastLangID` is available as a npm module [here](https://www.npmjs.com/package/fastLangID). To add the package to your project
+`fastLangID` is available as a npm module [here](https://www.npmjs.com/package/fastlangid). To add the package to your project
 
 ```bash
 npm install --save fastLangID
